@@ -1,4 +1,5 @@
-# Hi there, I'm Mickhail 👋🏻
+[![](https://visitcount.itsvg.in/api?id=MickhailP&icon=1&color=0)](https://visitcount.itsvg.in)
+# Hi there, I'm Mickhail 👋🏼
 
 <!--
 **MickhailP/MickhailP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +18,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Language
-<p align="left"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+## Language and tools
+<p align="center"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-## Contact with me:
+- Swift
+- SwitUI
+- Combine
+- Codable
+- CoreData
+- MVVM
+- Git
+
+## 🤙🏼 Contact with me:
 
 <p align="left">
 <a href="https://twitter.com/Mickhail_PV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tugberkkco" height="30" width="40" /></a>
@@ -36,6 +45,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MickhailP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MickhailP&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 
