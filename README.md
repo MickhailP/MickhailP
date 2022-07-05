@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=MickhailP&icon=1&color=0)](https://visitcount.itsvg.in)
 # Hi there, I'm Mickhail 👋🏼
 
-## 👨🏼‍💻 <a> I'm a self-taught iosDeveloper, farther and supply manager. <a>
+## 👨🏼‍💻 ### I'm a self-taught iosDeveloper, farther and supply manager.
 
 ## 🧵 Fun facts about me:
 
