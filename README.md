@@ -1,24 +1,20 @@
 [![](https://visitcount.itsvg.in/api?id=MickhailP&icon=1&color=0)](https://visitcount.itsvg.in)
 # Hi there, I'm Mickhail 👋🏼
 
-<!--
-**MickhailP/MickhailP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏼‍💻 I'm a self-taught iosDeveloper, farther and supply manager. 
 
-## I'm a self taught iosDeveloper, farther and supply manager 👨🏼‍💻
+## 🧵 Fun facts about me:
 
-Here are some ideas to get you started:
+- 🧠 
+- 💼 I'm passionate to be a part of awesome company as a Junior iOS Developer. 
+- 📫 You can reach me in Twitter or Instagram.
+- 🙋🏼‍♂️ Feel free to contact with me. 
+- 🍕 ☕️Pizza and coffe lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-## Language and tools
+
+
+## 💻 Language and tools that I use
 <p align="center"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 - Swift
