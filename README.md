@@ -25,6 +25,7 @@
 - MVVM
 - Git
 <p> </p>
+
 ## 🤙🏼 Contact with me:
 
 <p align="left">
