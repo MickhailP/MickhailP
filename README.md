@@ -14,8 +14,9 @@
 <p> </p>
 
 
-## 💻 Language and tools that I use
+## 💻 Core scills
 <p align="left"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
 
 - Swift
 - SwitUI
@@ -25,6 +26,10 @@
 - MVVM
 - Git
 <p> </p>
+
+## 💼 My Portfolio
+ - [Weather Around](https://github.com/MickhailP/WeatherAround)
+ - [Habbity] (https://github.com/MickhailP/Habbity)
 
 ## 🤙🏼 Contact with me:
 
@@ -37,9 +42,8 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MickhailP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MickhailP&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MickhailP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
