@@ -6,21 +6,21 @@
 
 ## 🧵 Fun facts about me:
 
-- 🧠 
-- 💼 I'm passionate to be a part of awesome company as a Junior iOS Developer. 
-- 📫 You can reach me in Twitter or Instagram.
-- 🙋🏼‍♂️ Feel free to contact with me. 
-- 🍕 ☕️Pizza and coffe lover
+- 🧠 I'm inspired to explore new technologies
+- 💼 I'm looking forward to find a job as a Junior iOS Developer. 
+- 📫 You can reach me in Twitter.
+- 🙋🏼‍♂️ Always good to meet new friends . 
+- 🍕 ☕️ Pizza and coffe lover
 <p> </p>
 
 
-## 💻 Core skills
+## 💻 Core scills
 <p align="left"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 
 - Swift
 - SwitUI
-- Concurrency
+- Concurrency async/await
 - Combine
 - Codable
 - CoreData
