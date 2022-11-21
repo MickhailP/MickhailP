@@ -2,6 +2,13 @@
 # Hi there, I'm Mickhail 👋🏼
 
 ### 👨🏼‍💻  I'm a self-taught iOS-Developer, farther.
+I'm in searching a new career opportunity. I'm going to apply all my knowlege and expertise to solve yours business problems by developing new features and make your app better!
+
+Here is my resume take a look -> [Mikhail Perevozchikov.pdf](https://github.com/MickhailP/MickhailP/files/10059746/Mikhail.Perevozchikov.pdf)
+Any feedback appreciated! 😉 
+
+Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
+
 <p> </p>
 
 ## 🧵 Fun facts about me:
@@ -10,7 +17,7 @@
 - 💼 I'm looking forward to find a job as a Junior iOS Developer. 
 - 📫 You can reach me in Twitter.
 - 🙋🏼‍♂️ Always good to meet new friends . 
-- 🍕 ☕️ Pizza and coffe lover
+- 🍕 ☕️ Pizza and coffe are my weakness.
 <p> </p>
 
 
@@ -20,12 +27,16 @@
 
 - Swift
 - SwitUI
+- REST'ful API
 - Concurrency async/await
 - Combine
 - Codable
-- CoreData
 - MVVM
+- CoreData
+- MapKit
+- SwiftLint
 - Git
+- Team player
 <p> </p>
 
 ## 💼 My Portfolio
