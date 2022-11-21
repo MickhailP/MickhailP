@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=MickhailP&icon=1&color=0)](https://visitcount.itsvg.in)
-# Hi there, I'm Mickhail 👋🏼
+# Hi there, I'm Mikhail 👋🏼
 
 ### 👨🏼‍💻  I'm a self-taught iOS-Developer, dad, hockey player and snowboarder.
 I'm in searching a new career opportunity. I'm going to apply all my knowlege and expertise to solve yours business problems by developing new features and make your app better!
