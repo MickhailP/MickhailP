@@ -40,9 +40,10 @@ Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
 <p> </p>
 
 ## 💼 My Portfolio
- - [Weather Around](https://github.com/MickhailP/WeatherAround)
- - [Habbity](https://github.com/MickhailP/Habbity)
-
+ ### - [Weather Around](https://github.com/MickhailP/WeatherAround)
+ ### - [FlickrApp](https://github.com/MickhailP/FlickrApp)
+ ### - [Habbity](https://github.com/MickhailP/Habbity)
+ 
 #### Bootcamp projects
  
 
