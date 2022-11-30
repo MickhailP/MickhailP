@@ -41,8 +41,11 @@ Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
 
 ## 💼 My Portfolio
  ### - [Weather Around](https://github.com/MickhailP/WeatherAround)
+ Weather application. It usese a REST API to fetch weather forecast for user's location and it's favorite places.
  ### - [FlickrApp](https://github.com/MickhailP/FlickrApp)
+ Feed of images from Flickr API. User can search images by tags and obseve results in the feed.
  ### - [Habbity](https://github.com/MickhailP/Habbity)
+ Habbit tracker application. Notify user to execute habits in specific time through NotificationCentre.
  
 #### Bootcamp projects
  
