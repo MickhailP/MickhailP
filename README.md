@@ -21,19 +21,17 @@ Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
 <p> </p>
 
 
-## 💻 Core scills
-<p align="left"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-
+## 💻 Core skills
 - Swift
 - SwitUI
 - REST'ful API
-- Concurrency async/await
+- Concurrency
 - Combine
-- Codable
 - MVVM
 - CoreData
 - MapKit
+- CoreLocation
+- OOP, SOLID, DRY
 - SwiftLint
 - Git
 - Team player
