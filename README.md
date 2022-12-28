@@ -10,7 +10,7 @@ iOS development is my favorite hobby.
 ## You can find my CV here: -> [M.Perevozchikov.pdf](https://github.com/MickhailP/MickhailP/files/10312977/M.Perevozchikov.pdf)
 
 
-Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
+Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍💻
 
 <p> </p>
 
