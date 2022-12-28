@@ -2,16 +2,19 @@
 # Hi there, I'm Mikhail 👋🏼
 
 ### 👨🏼‍💻  I'm a self-taught iOS-Developer, dad, hockey player and snowboarder.
-I'm in searching a new career opportunity. I'm going to apply all my knowlege and expertise to solve yours business problems by developing new features and make your app better!
+I'm in searching a new career opportunity. 
+I look forward to apply all my knowlege and expertise to solve business problems by developing new features and make your app better!
 
-Here is my resume take a look -> [Mikhail Perevozchikov.pdf](https://github.com/MickhailP/MickhailP/files/10059746/Mikhail.Perevozchikov.pdf)
-Any feedback appreciated! 😉 
+iOS development is my favorite hobbie.
+
+## You can find my CV here: -> [M.Perevozchikov.pdf](https://github.com/MickhailP/MickhailP/files/10312977/M.Perevozchikov.pdf)
+
 
 Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
 
 <p> </p>
 
-## 🧵 Fun facts about me:
+## 🧵 Some facts about me:
 
 - 🧠 I'm inspired to explore new technologies
 - 💼 I'm looking forward to find a job as a Junior iOS Developer. 
@@ -25,9 +28,10 @@ Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
 - Swift
 - SwitUI
 - REST'ful API
-- Concurrency
+- Concurrency, GCD
 - Combine
 - MVVM
+- UnitTesting
 - CoreData
 - MapKit
 - CoreLocation
