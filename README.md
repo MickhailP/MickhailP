@@ -18,7 +18,7 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 
 - 🧠 I'm inspired to explore new technologies
 - 💼 I'm looking forward to find a job as a Junior iOS Developer. 
-- 📫 You can reach me on Twitter.
+- 📫 You can reach me on [Twitter](https://twitter.com/Mickhail_PV).
 - 🙋🏼‍♂️ Always good to meet new friends . 
 - 🍕 ☕️ Pizza and coffee are my weakness.
 <p> </p>
