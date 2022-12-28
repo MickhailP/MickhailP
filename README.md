@@ -32,6 +32,7 @@ Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
 - Combine
 - MVVM
 - UnitTesting
+- DependencyInjection
 - CoreData
 - MapKit
 - CoreLocation
@@ -44,8 +45,31 @@ Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
 ## 💼 My Portfolio
  ### - [Weather Around](https://github.com/MickhailP/WeatherAround)
  Weather application. It usese a REST API to fetch weather forecast for user's location and it's favorite places.
+ Key technologies:
+ - REST API
+ - Concurrency, TaskGroup
+ - CoreLocation, MapKit
+ - Custom UI components
+ - SwifLint
+ 
+ ### - [TVStreamingApp](https://github.com/MickhailP/LimeTVStreaming)
+ This is the app that allows user to watch TV from an iPhone. It's using an HTTP Live Streaming technology. User can choose some channel from a list recieved from API and watch video online and change its resolution.
+ Key technologies:
+ - HTTP Live Streaming
+ - UnitTesting
+ - Protocol Oriented Programming
+ - JSON parsing
+ - Image caching
+ - UserDefaults
+ - SwifLint
+ 
  ### - [FlickrApp](https://github.com/MickhailP/FlickrApp)
  Feed of images from Flickr API. User can search images by tags and obseve results in the feed.
+  - REST API
+  - MVVM
+  - Combine
+  - JSON parsing
+  
  ### - [Habbity](https://github.com/MickhailP/Habbity)
  Habbit tracker application. Notify user to execute habits in specific time through NotificationCentre.
  
