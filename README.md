@@ -2,10 +2,10 @@
 # Hi there, I'm Mikhail 👋🏼
 
 ### 👨🏼‍💻  I'm a self-taught iOS-Developer, dad, hockey player and snowboarder.
-I'm in searching a new career opportunity. 
-I look forward to apply all my knowlege and expertise to solve business problems by developing new features and make your app better!
+I'm searching a new career opportunity. 
+I look forward to apply all my knowledge and expertise to solve business problems by developing new features and make your app better!
 
-iOS development is my favorite hobbie.
+iOS development is my favorite hobby.
 
 ## You can find my CV here: -> [M.Perevozchikov.pdf](https://github.com/MickhailP/MickhailP/files/10312977/M.Perevozchikov.pdf)
 
@@ -18,9 +18,9 @@ Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
 
 - 🧠 I'm inspired to explore new technologies
 - 💼 I'm looking forward to find a job as a Junior iOS Developer. 
-- 📫 You can reach me in Twitter.
+- 📫 You can reach me on Twitter.
 - 🙋🏼‍♂️ Always good to meet new friends . 
-- 🍕 ☕️ Pizza and coffe are my weakness.
+- 🍕 ☕️ Pizza and coffee are my weakness.
 <p> </p>
 
 
@@ -44,7 +44,7 @@ Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
 
 ## 💼 My Portfolio
  ### - [Weather Around](https://github.com/MickhailP/WeatherAround)
- Weather application. It usese a REST API to fetch weather forecast for user's location and it's favorite places.
+ Weather application. It useses a REST API to fetch weather forecast for the user's location and its favorite places.
  Key technologies:
  - REST API
  - Concurrency, TaskGroup
@@ -53,7 +53,7 @@ Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
  - SwifLint
  
  ### - [TVStreamingApp](https://github.com/MickhailP/LimeTVStreaming)
- This is the app that allows user to watch TV from an iPhone. It's using an HTTP Live Streaming technology. User can choose some channel from a list recieved from API and watch video online and change its resolution.
+ This is the app that allows users to watch TV from an iPhone. It's using an HTTP Live Streaming technology. The user can choose some channel from a list received from API and watch video online and change its resolution.
  Key technologies:
  - HTTP Live Streaming
  - UnitTesting
@@ -64,14 +64,14 @@ Currently learning and mastering in Algorithms and UnitTesting👨🏼‍💻
  - SwifLint
  
  ### - [FlickrApp](https://github.com/MickhailP/FlickrApp)
- Feed of images from Flickr API. User can search images by tags and obseve results in the feed.
+ Feed of images from Flickr API. The user can search images by tags and observe results in the feed.
   - REST API
   - MVVM
   - Combine
   - JSON parsing
   
  ### - [Habbity](https://github.com/MickhailP/Habbity)
- Habbit tracker application. Notify user to execute habits in specific time through NotificationCentre.
+ Habit tracker application. Notify user to execute habits in specific time through NotificationCentre.
  
 #### Bootcamp projects
  
