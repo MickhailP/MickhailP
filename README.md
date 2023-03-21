@@ -38,7 +38,7 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 - MapKit, CoreLocation
 - OOP, SOLID, DRY
 - SwiftLint
-- Git
+- GitFlow
 - Agile 
 <p> </p>
 
