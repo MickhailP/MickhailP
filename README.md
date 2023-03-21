@@ -2,8 +2,8 @@
 # Hi there, I'm Mikhail 👋🏼
 
 ### 👨🏼‍💻  I'm a self-taught iOS-Developer, dad, hockey player and snowboarder.
-I'm searching a new career opportunity. 
-I look forward to apply all my knowledge and expertise to solve business problems by developing new features and make your app better!
+I've been creating REST'ful mobile apps using Swift and SwiftUI for 1 year. I look forward to solve
+real business problems and grow as a programmer with your company. I share useful programming tips on Twitter.
 
 iOS development is my favorite hobby.
 
@@ -17,7 +17,7 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 ## 🧵 Some facts about me:
 
 - 🧠 I'm inspired to explore new technologies
-- 💼 I'm looking forward to find a job as an iOS Developer. 
+- 💼 I'm looking forward to find a new job as an iOS Developer. 
 - 📫 You can reach me on [Twitter](https://twitter.com/Mickhail_PV).
 - 🙋🏼‍♂️ Always good to meet new friends . 
 - 🍕 ☕️ Pizza and coffee are my weakness.
@@ -26,20 +26,20 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 
 ## 💻 Core skills
 - Swift
-- SwitUI
-- REST'ful API
+- UIKit, SwitUI
+- Storyboard, XIB, programmatic UI with SnapKit
+- REST API
 - Concurrency, GCD
+- MVC, MVP, MVVM
 - Combine
-- MVVM
 - UnitTesting
 - DependencyInjection
-- CoreData
-- MapKit
-- CoreLocation
+- Firebase, CoreData, Realm, UserDefaults
+- MapKit, CoreLocation
 - OOP, SOLID, DRY
 - SwiftLint
 - Git
-- Team player
+- Agile 
 <p> </p>
 
 ## 💼 My Portfolio
