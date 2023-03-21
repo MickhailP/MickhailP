@@ -32,7 +32,7 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 - Concurrency, GCD
 - MVC, MVP, MVVM
 - Combine
-- UnitTesting
+- UnitTesting, CocoaPods, SPM
 - DependencyInjection
 - Firebase, CoreData, Realm, UserDefaults
 - MapKit, CoreLocation
