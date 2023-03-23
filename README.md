@@ -45,7 +45,13 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 ## 💼 My Portfolio
 
  ### - [My Followers]
- This applicarion allows user to search
+ This applicarion allows user to observe followers of specific person on GitHub.
+  Key technologies:
+ - UIKit, programmatic UI
+ - Snapkit
+ - Custom Reusable Views
+ - REST API
+ - Concurrency
  
  
  ### - [Weather Around](https://github.com/MickhailP/WeatherAround)
