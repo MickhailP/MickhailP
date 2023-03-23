@@ -44,7 +44,7 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 
 ## 💼 My Portfolio
 
- ### - [My GH Followers] (https://github.com/MickhailP/GH-Followers)
+ ### - [My GH Followers](https://github.com/MickhailP/GH-Followers)
  This applicarion allows user to observe followers of specific person on GitHub.
   Key technologies:
  - UIKit, programmatic UI
