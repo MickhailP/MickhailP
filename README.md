@@ -45,7 +45,8 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 
  ### - [My GH Followers](https://github.com/MickhailP/GH-Followers)
  This applicarion allows user to observe followers of specific person on GitHub.
-  Key technologies:
+
+Key technologies:
  - UIKit, programmatic UI
  - Snapkit
  - Custom Reusable Views
@@ -67,7 +68,8 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
  
  ### - [TVStreamingApp](https://github.com/MickhailP/LimeTVStreaming)
  This is the app that allows users to watch TV from an iPhone. It's using an HTTP Live Streaming technology. The user can choose some channel from a list received from API and watch video online and change its resolution.
- Key technologies:
+
+Key technologies:
  - HTTP Live Streaming
  - UnitTesting
  - Protocol Oriented Programming
@@ -78,7 +80,8 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
  
  ### - [FlickrApp](https://github.com/MickhailP/FlickrApp)
  Feed of images from Flickr API. The user can search images by tags and observe results in the feed.
- Key technologies:
+
+Key technologies:
 - SwiftUI
 - Concurrency
 - Combine
