@@ -5,7 +5,6 @@
 I've been creating REST'ful mobile apps using Swift and SwiftUI for 1 year. I look forward to solve
 real business problems and grow as a programmer with your company. I share useful programming tips on Twitter.
 
-iOS development is my favorite hobby.
 
 ## You can find my CV here: -> [CV Mikhail Perevozchikov iOS .pdf](https://github.com/MickhailP/MickhailP/files/11024973/CV.Mikhail.Perevozchikov.iOS.pdf)
 
