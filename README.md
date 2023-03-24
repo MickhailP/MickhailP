@@ -55,6 +55,9 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
  
  ### - [Weather Around](https://github.com/MickhailP/WeatherAround)
  Weather application. It useses a REST API to fetch weather forecast for the user's location and its favorite places.
+ 
+ <img width="60" alt="Icon" src="https://user-images.githubusercontent.com/81718237/202279067-0a7864e7-b075-4099-8999-6c36b254edef.png">
+
  Key technologies:
  - REST API
  - Concurrency, TaskGroup
@@ -75,13 +78,29 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
  
  ### - [FlickrApp](https://github.com/MickhailP/FlickrApp)
  Feed of images from Flickr API. The user can search images by tags and observe results in the feed.
-  - REST API
-  - MVVM
-  - Combine
-  - JSON parsing
+ Key technologies:
+- SwiftUI
+- Concurrency
+- Combine
+- Dependency injection
+- SwiftLint
   
  ### - [Habbity](https://github.com/MickhailP/Habbity)
  Habit tracker application. Notify user to execute habits in specific time through NotificationCentre.
+ 
+ ### App Icon
+<img width="60" alt="Icon" src="https://user-images.githubusercontent.com/81718237/227424034-6add992f-c751-42d5-a7c7-3ffeb9c327a0.png">
+ 
+ Key technologies:
+- SwiftUI
+- NotificationCentre
+- REST API
+- Firebase
+- MVVM
+- Combine
+- JSON parsing
+- SPM
+
  
 #### Bootcamp projects
  
