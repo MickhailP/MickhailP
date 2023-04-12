@@ -43,6 +43,8 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 
 ## 💼 My Portfolio
 
+![main](https://user-images.githubusercontent.com/81718237/231349097-f745af2d-bbaa-4e7b-ac2b-f91374adb3f4.jpg)
+
  ### - [My GH Followers](https://github.com/MickhailP/GH-Followers)
  This applicarion allows user to observe followers of specific person on GitHub.
 
@@ -52,6 +54,8 @@ Key technologies:
  - Custom Reusable Views
  - REST API
  - Concurrency
+![1st](https://user-images.githubusercontent.com/81718237/231349162-a45aa63b-61b4-4a5f-bf51-4b2768ad4d42.jpg)
+
  
  
  ### - [Weather Around](https://github.com/MickhailP/WeatherAround)
