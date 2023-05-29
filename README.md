@@ -2,12 +2,11 @@
 # Hi there, I'm Mikhail 👋🏼
 
 ### 👨🏼‍💻  I'm a self-taught iOS-Developer, dad, hockey player and snowboarder.
-I've been creating REST'ful mobile apps using Swift and SwiftUI for 1 year. I look forward to solve
-real business problems and grow as a programmer with your company. I share useful programming tips on Twitter.
+I would like to introduce my portfolio projects here.
+Please, follow this page and anjoy the content. 
 
 
 ## You can find my CV here: -> [CV Mikhail Perevozchikov iOS .pdf](https://github.com/MickhailP/MickhailP/files/11024973/CV.Mikhail.Perevozchikov.iOS.pdf)
-
 
 Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍💻
 
@@ -35,7 +34,7 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 - DependencyInjection
 - Firebase, CoreData, Realm, UserDefaults
 - MapKit, CoreLocation
-- OOP, SOLID, DRY
+- OOP, SOLID, DRY, YAGNI
 - SwiftLint
 - GitFlow
 - Agile 
@@ -47,6 +46,8 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 
  ### - [My GH Followers](https://github.com/MickhailP/GH-Followers)
  This applicarion allows user to observe followers of specific person on GitHub.
+ 
+  <img width="60" alt="Icon" src="https://github.com/MickhailP/MickhailP/assets/81718237/09588cd3-de62-47cf-8ec6-cefd977b79cd">
 
 Key technologies:
  - UIKit, programmatic UI
@@ -54,9 +55,25 @@ Key technologies:
  - Custom Reusable Views
  - REST API
  - Concurrency
+ 
 ![1st](https://user-images.githubusercontent.com/81718237/231349162-a45aa63b-61b4-4a5f-bf51-4b2768ad4d42.jpg)
 
- 
+ ### - [VKPhotoGallery](https://github.com/MickhailP/VKPhotoGallery/blob/main/README.md)
+Feed of images from VK API. The user can search from VK's specific album
+
+Key technologies:
+ - UIKit + SnapKit
+ - MVVM + Coordinator
+ - VK OAuth 2.0
+ - Async/await
+ - Code layout
+ - Target iOS 15.0, Target Device- iPhone
+ - Image caching
+ - Dark/Light mode
+ - Keychain
+ - GitFlow
+ - Eng/Rus localization
+ - Custom reusable views
  
  ### - [Weather Around](https://github.com/MickhailP/WeatherAround)
  Weather application. It useses a REST API to fetch weather forecast for the user's location and its favorite places.
@@ -82,22 +99,7 @@ Key technologies:
  - UserDefaults
  - SwifLint
  
- ### - [FlickrApp](https://github.com/MickhailP/VKPhotoGallery/blob/main/README.md)
- Feed of images from VK API. The user can search from VK's specific album
 
-Key technologies:
- - UIKit + SnapKit
- - MVVM + Coordinator
- - VK OAuth 2.0
- - Async/await
- - Code layout
- - Target iOS 15.0, Target Device- iPhone
- - Image caching
- - Dark/Light mode
- - Keychain
- - GitFlow
- - Eng/Rus localization
- - Custom reusable views
   
  ### - [Habbity](https://github.com/MickhailP/Habbity)
  Habit tracker application. Notify user to execute habits in specific time through NotificationCentre.
