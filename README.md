@@ -58,6 +58,7 @@ Key technologies:
  
 ![1st](https://user-images.githubusercontent.com/81718237/231349162-a45aa63b-61b4-4a5f-bf51-4b2768ad4d42.jpg)
 
+
  ### - [VKPhotoGallery](https://github.com/MickhailP/VKPhotoGallery/blob/main/README.md)
 Feed of images from VK API. The user can search from VK's specific album
 
@@ -74,31 +75,6 @@ Key technologies:
  - GitFlow
  - Eng/Rus localization
  - Custom reusable views
- 
- ### - [Weather Around](https://github.com/MickhailP/WeatherAround)
- Weather application. It useses a REST API to fetch weather forecast for the user's location and its favorite places.
- 
- <img width="60" alt="Icon" src="https://user-images.githubusercontent.com/81718237/202279067-0a7864e7-b075-4099-8999-6c36b254edef.png">
-
- Key technologies:
- - REST API
- - Concurrency, TaskGroup
- - CoreLocation, MapKit
- - Custom UI components
- - SwifLint
- 
- ### - [TVStreamingApp](https://github.com/MickhailP/LimeTVStreaming)
- This is the app that allows users to watch TV from an iPhone. It's using an HTTP Live Streaming technology. The user can choose some channel from a list received from API and watch video online and change its resolution.
-
-Key technologies:
- - HTTP Live Streaming
- - UnitTesting
- - Protocol Oriented Programming
- - JSON parsing
- - Image caching
- - UserDefaults
- - SwifLint
- 
 
   
  ### - [Habbity](https://github.com/MickhailP/Habbity)
@@ -116,8 +92,39 @@ Key technologies:
 - Combine
 - JSON parsing
 - SPM
+![6](https://github.com/MickhailP/MickhailP/assets/81718237/91c67cf0-51aa-4fd3-9731-821751eb9d8c)
 
  
+ 
+ ### - [Weather Around](https://github.com/MickhailP/WeatherAround)
+ Weather application. It useses a REST API to fetch weather forecast for the user's location and its favorite places.
+ 
+ <img width="60" alt="Icon" src="https://user-images.githubusercontent.com/81718237/202279067-0a7864e7-b075-4099-8999-6c36b254edef.png">
+
+ Key technologies:
+ - REST API
+ - Concurrency, TaskGroup
+ - CoreLocation, MapKit
+ - Custom UI components
+ - SwifLint
+ ![w2](https://github.com/MickhailP/MickhailP/assets/81718237/5e9647d5-e541-4956-a073-266795d0986b)
+
+
+ ### - [TVStreamingApp](https://github.com/MickhailP/LimeTVStreaming)
+ This is the app that allows users to watch TV from an iPhone. It's using an HTTP Live Streaming technology. The user can choose some channel from a list received from API and watch video online and change its resolution.
+
+Key technologies:
+ - HTTP Live Streaming
+ - UnitTesting
+ - Protocol Oriented Programming
+ - JSON parsing
+ - Image caching
+ - UserDefaults
+ - SwifLint
+ 
+![4](https://github.com/MickhailP/MickhailP/assets/81718237/671f315f-25f4-4aaa-9a41-8e01266f6aae)
+
+
 #### Bootcamp projects
  
 
