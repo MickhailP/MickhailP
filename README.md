@@ -82,15 +82,22 @@ Key technologies:
  - UserDefaults
  - SwifLint
  
- ### - [FlickrApp](https://github.com/MickhailP/FlickrApp)
- Feed of images from Flickr API. The user can search images by tags and observe results in the feed.
+ ### - [FlickrApp](https://github.com/MickhailP/VKPhotoGallery/blob/main/README.md)
+ Feed of images from VK API. The user can search from VK's specific album
 
 Key technologies:
-- SwiftUI
-- Concurrency
-- Combine
-- Dependency injection
-- SwiftLint
+ - UIKit + SnapKit
+ - MVVM + Coordinator
+ - VK OAuth 2.0
+ - Async/await
+ - Code layout
+ - Target iOS 15.0, Target Device- iPhone
+ - Image caching
+ - Dark/Light mode
+ - Keychain
+ - GitFlow
+ - Eng/Rus localization
+ - Custom reusable views
   
  ### - [Habbity](https://github.com/MickhailP/Habbity)
  Habit tracker application. Notify user to execute habits in specific time through NotificationCentre.
