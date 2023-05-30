@@ -42,7 +42,8 @@ Currently I am learning and mastering in Algorithms and UnitTesting👨🏼‍�
 
 ## 💼 My Portfolio
 
-![main](https://user-images.githubusercontent.com/81718237/231349097-f745af2d-bbaa-4e7b-ac2b-f91374adb3f4.jpg)
+
+![main2](https://github.com/MickhailP/MickhailP/assets/81718237/3baec176-44b6-4f8c-a121-4151a4c556e2)
 
  ### - [My GH Followers](https://github.com/MickhailP/GH-Followers)
  This applicarion allows user to observe followers of specific person on GitHub.
@@ -75,6 +76,8 @@ Key technologies:
  - GitFlow
  - Eng/Rus localization
  - Custom reusable views
+
+![VK](https://github.com/MickhailP/MickhailP/assets/81718237/cd229ae5-e75b-43b0-babb-993e82829e1a)
 
   
  ### - [Habbity](https://github.com/MickhailP/Habbity)
